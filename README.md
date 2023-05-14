@@ -35,6 +35,7 @@
 - Data transformation techniques (merging, joining, reshaping)
 - Handling duplicates and outliers
 - Introduction to descriptive statistics
+
 #Lesson 5: Advanced Pandas Concepts
 
 - Working with text data in Pandas
