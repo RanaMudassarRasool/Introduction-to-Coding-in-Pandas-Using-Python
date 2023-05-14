@@ -45,3 +45,5 @@
 - Handling big data with Pandas (chunking, memory optimization)
 - Introduction to machine learning with Pandas
 These are the broad topics covered in the course. As your student, we can begin with the first lesson. Let me know if you have any specific requirements or questions before we start!
+
+# Rana Mudassar Rasool
