@@ -36,7 +36,7 @@
 - Handling duplicates and outliers
 - Introduction to descriptive statistics
 
-#Lesson 5: Advanced Pandas Concepts
+# Lesson 5: Advanced Pandas Concepts
 
 - Working with text data in Pandas
 - Categorical data handling
